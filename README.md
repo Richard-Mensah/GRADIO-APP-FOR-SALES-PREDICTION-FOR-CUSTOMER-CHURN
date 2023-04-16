@@ -21,7 +21,8 @@ GRADIO
 
 ## APP INTERFACE
 
-![image.png](image.jpg)
+![alt text](image.png)
+
 
 
 ## Author

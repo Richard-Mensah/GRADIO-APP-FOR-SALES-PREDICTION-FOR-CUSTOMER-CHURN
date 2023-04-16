@@ -19,5 +19,10 @@ Gradio Web app for classification project to predict customer churn
 ## APP TYPE
 GRADIO
 
+## APP INTERFACE
+
+![image.png](image.jpg)
+
+
 ## Author
 Richard Mensah
